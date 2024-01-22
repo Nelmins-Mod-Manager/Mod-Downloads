@@ -1,8 +1,10 @@
 {
   "mods": [
     {
-      name: "StopThePed",
-      downloadLocation: "https://github.com/Nelmins-Mod-Manager/Mod-Downloads/raw/main/StopThePed.rar"
+      "name": "StopThePed",
+      "description": "Bla bla bla",
+      "version": "v4.9.5.1",
+      "authors": ["Bejoijo"],
     }
   ]
 }
